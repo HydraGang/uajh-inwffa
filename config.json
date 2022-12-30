@@ -1,0 +1,9 @@
+{
+	"ip":"PeeterSMP.aternos.me:61948",
+	"port": 61948,
+	"name": "Discord",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Poppy6655) (Poppy6655)",
+	"login-cmd":"/login (Poppy6655)"
+}
